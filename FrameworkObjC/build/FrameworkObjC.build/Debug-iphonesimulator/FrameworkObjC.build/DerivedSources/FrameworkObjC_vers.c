@@ -1,0 +1,1 @@
+ const unsigned char FrameworkObjCVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:FrameworkObjC  PROJECT:FrameworkObjC-1" "\n"; const double FrameworkObjCVersionNumber __attribute__ ((used)) = (double)1.;

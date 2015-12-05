@@ -1,0 +1,87 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FrameworkSwift"
+provides-nominal:
+- "C14FrameworkSwift14FrameworkSwift"
+provides-member:
+- ["C14FrameworkSwift14FrameworkSwift", ""]
+provides-dynamic-lookup:
+- "startPrint"
+- "start"
+depends-top-level:
+- !private "NSLog"
+- !private "print"
+- "FrameworkSwift"
+- "NSObject"
+- !private "StringLiteralType"
+depends-member:
+- !private ["PSs9AnyObject", "NSLog"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "print"]
+- ["PSs9AnyObject", "start"]
+- ["PSs9AnyObject", "startPrint"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "NSLog"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "print"]
+- ["PSs11CVarArgType", "start"]
+- ["PSs11CVarArgType", "startPrint"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs23CustomStringConvertible", "NSLog"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- ["PSs23CustomStringConvertible", "start"]
+- ["PSs23CustomStringConvertible", "startPrint"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "NSLog"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "print"]
+- ["PSs9Equatable", "start"]
+- ["PSs9Equatable", "startPrint"]
+- ["PSs9Equatable", ""]
+- !private ["C14FrameworkSwift14FrameworkSwift", "NSLog"]
+- ["C14FrameworkSwift14FrameworkSwift", "deinit"]
+- ["C14FrameworkSwift14FrameworkSwift", "init"]
+- !private ["C14FrameworkSwift14FrameworkSwift", "print"]
+- ["C14FrameworkSwift14FrameworkSwift", "start"]
+- ["C14FrameworkSwift14FrameworkSwift", "startPrint"]
+- !private ["PSs8Hashable", "NSLog"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "print"]
+- ["PSs8Hashable", "start"]
+- ["PSs8Hashable", "startPrint"]
+- ["PSs8Hashable", ""]
+- !private ["CSo8NSObject", "NSLog"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "start"]
+- ["CSo8NSObject", "startPrint"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "NSLog"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "start"]
+- ["PSo16NSObjectProtocol", "startPrint"]
+- ["PSo16NSObjectProtocol", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "C14FrameworkSwift14FrameworkSwift"
+- "PSs8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/matsusaki/Proj/App/Test/ObjCSwift/FrameworkSwift/FrameworkSwift/FrameworkSwift.h"
+- "/Users/matsusaki/Proj/App/Test/ObjCSwift/FrameworkSwift/build/FrameworkSwift.build/Debug-iphonesimulator/FrameworkSwift.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "d8cae9bfabe274f53a07bcbccf429723"

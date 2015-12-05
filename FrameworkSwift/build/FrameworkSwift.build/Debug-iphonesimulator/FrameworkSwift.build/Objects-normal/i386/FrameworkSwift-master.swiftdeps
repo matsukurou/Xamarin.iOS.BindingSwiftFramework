@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "ffe8738d9ac64834fb65a10d9651f2b8"
+build_time: [502606729, 213037000]
+inputs: 
+	"/Users/matsusaki/Proj/App/Test/ObjCSwift/FrameworkSwift/FrameworkSwift/FrameworkSwift.swift": [502540806, 0]

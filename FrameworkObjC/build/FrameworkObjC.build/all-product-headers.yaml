@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/matsusaki/Library/Developer/Xcode/DerivedData/FrameworkObjC-cnsinissbqgdodawmxtuyxomjmee/Build/Products/Debug-iphonesimulator/FrameworkObjC.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "FrameworkObjC-Swift.h",
+          'external-contents': "/Users/matsusaki/Library/Developer/Xcode/DerivedData/FrameworkObjC-cnsinissbqgdodawmxtuyxomjmee/Build/Products/Debug-iphonesimulator/FrameworkObjC.framework/Headers/FrameworkObjC-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "FrameworkObjC.h",
+          'external-contents': "/Users/matsusaki/Proj/App/Test/ObjCSwift/FrameworkObjC/FrameworkObjC/FrameworkObjC.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/matsusaki/Library/Developer/Xcode/DerivedData/FrameworkObjC-cnsinissbqgdodawmxtuyxomjmee/Build/Products/Debug-iphonesimulator/FrameworkObjC.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/matsusaki/Proj/App/Test/ObjCSwift/FrameworkObjC/build/FrameworkObjC.build/Debug-iphonesimulator/FrameworkObjC.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

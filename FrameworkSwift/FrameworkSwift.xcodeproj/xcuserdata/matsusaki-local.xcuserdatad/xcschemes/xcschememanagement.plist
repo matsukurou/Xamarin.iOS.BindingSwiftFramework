@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>FrameworkSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FrameworkSwiftUniversal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>SampleSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>5E9E6BD31C11A4CA0011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E9E6BDD1C11A4CA0011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E9E6BF31C11A5290011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E9E6C061C11A5290011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E9E6C111C11A5290011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5E9E6C271C11A6090011FE7B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
